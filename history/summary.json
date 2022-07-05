@@ -4,18 +4,20 @@
     "url": "https://nginx.marsey.cloud",
     "icon": "https://favicons.githubusercontent.com/nginx.marsey.cloud",
     "slug": "marsey-cloud",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 641,
     "timeDay": 746,
     "timeWeek": 641,
     "timeMonth": 641,
     "timeYear": 641,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-05": 1
+    }
   },
   {
     "name": "lmao.works",
@@ -59,18 +61,18 @@
     "icon": "https://favicons.githubusercontent.com/nginx.lmfao.quest",
     "slug": "lmfao-quest",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.85%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "99.85%",
     "time": 778,
     "timeDay": 732,
     "timeWeek": 778,
     "timeMonth": 778,
     "timeYear": 778,
     "dailyMinutesDown": {
-      "2022-07-05": 0
+      "2022-07-05": 11
     }
   }
 ]
