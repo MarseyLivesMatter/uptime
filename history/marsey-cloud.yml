@@ -1,7 +1,7 @@
 url: https://nginx.marsey.cloud
-status: down
-code: 502
-responseTime: 765
-lastUpdated: 2023-06-12T11:24:21.568Z
+status: up
+code: 200
+responseTime: 689
+lastUpdated: 2023-06-12T11:30:35.921Z
 startTime: Thu Jun 30 2022 16:27:35 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
