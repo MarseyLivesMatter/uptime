@@ -1,7 +1,7 @@
 url: https://nginx.lynwood.fun
-status: down
-code: 502
-responseTime: 21882
-lastUpdated: 2023-08-31T10:46:18.621Z
+status: up
+code: 200
+responseTime: 987
+lastUpdated: 2023-08-31T10:52:04.244Z
 startTime: 2022-06-30T16:27:37.000Z
 generator: Upptime <https://github.com/upptime/upptime>
