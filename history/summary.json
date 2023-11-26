@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "26.75%",
+    "uptime": "26.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2023-11-25": 41,
+      "2023-11-26": 46,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -362,8 +363,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "75.22%",
+    "uptime": "75.08%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "65.33%",
-    "time": 625,
+    "uptimeYear": "65.06%",
+    "time": 626,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 639,
     "dailyMinutesDown": {
-      "2023-11-25": 41,
+      "2023-11-26": 46,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -520,15 +521,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lynwood.fun.ico",
     "slug": "lynwood-fun",
     "status": "up",
-    "uptime": "97.64%",
+    "uptime": "97.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.81%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "96.76%",
     "time": 1047,
-    "timeDay": 746,
-    "timeWeek": 755,
-    "timeMonth": 762,
+    "timeDay": 818,
+    "timeWeek": 739,
+    "timeMonth": 758,
     "timeYear": 1041,
     "dailyMinutesDown": {
       "2023-11-22": 19,
@@ -574,7 +575,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmfao.quest.ico",
     "slug": "lmfao-quest",
     "status": "down",
-    "uptime": "6.33%",
+    "uptime": "6.32%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -585,7 +586,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2023-11-25": 41,
+      "2023-11-26": 46,
+      "2023-11-25": 1440,
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
@@ -929,8 +931,7 @@
       "2022-11-30": 1440,
       "2022-11-29": 1440,
       "2022-11-28": 1440,
-      "2022-11-27": 1440,
-      "2022-11-26": 1440
+      "2022-11-27": 1440
     }
   }
 ]
