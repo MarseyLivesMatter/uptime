@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "22.60%",
+    "uptime": "22.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "5.52%",
-    "time": 1353,
+    "time": 1360,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2024-02-27": 40,
+      "2024-02-28": 40,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -362,8 +363,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "63.56%",
+    "uptime": "63.46%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "39.58%",
+    "uptimeYear": "39.31%",
     "time": 636,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-02-27": 40,
+      "2024-02-28": 40,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -619,9 +620,9 @@
     "uptimeMonth": "99.94%",
     "uptimeYear": "95.88%",
     "time": 989,
-    "timeDay": 1123,
-    "timeWeek": 996,
-    "timeMonth": 889,
+    "timeDay": 1130,
+    "timeWeek": 1043,
+    "timeMonth": 902,
     "timeYear": 997,
     "dailyMinutesDown": {
       "2024-01-28": 28,
@@ -656,8 +657,7 @@
       "2023-06-05": 18,
       "2023-05-19": 170,
       "2023-03-23": 119,
-      "2023-03-03": 19,
-      "2023-02-28": 15
+      "2023-03-03": 19
     }
   },
   {
@@ -666,7 +666,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmfao.quest.ico",
     "slug": "lmfao-quest",
     "status": "down",
-    "uptime": "5.35%",
+    "uptime": "5.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -677,7 +677,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-02-27": 40,
+      "2024-02-28": 40,
+      "2024-02-27": 1440,
       "2024-02-26": 1440,
       "2024-02-25": 1440,
       "2024-02-24": 1440,
@@ -1021,8 +1022,7 @@
       "2023-03-04": 1440,
       "2023-03-03": 1440,
       "2023-03-02": 1440,
-      "2023-03-01": 1440,
-      "2023-02-28": 1440
+      "2023-03-01": 1440
     }
   }
 ]
