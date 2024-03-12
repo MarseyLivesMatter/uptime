@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "22.13%",
+    "uptime": "22.09%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "5.25%",
-    "time": 1433,
+    "time": 1439,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2024-03-11": 42,
+      "2024-03-12": 40,
+      "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -362,8 +363,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "62.23%",
+    "uptime": "62.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "36.02%",
+    "uptimeYear": "35.75%",
     "time": 636,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 656,
+    "timeYear": 657,
     "dailyMinutesDown": {
-      "2024-03-11": 42,
+      "2024-03-12": 40,
+      "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -626,15 +627,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lynwood.fun.ico",
     "slug": "lynwood-fun",
     "status": "up",
-    "uptime": "97.28%",
+    "uptime": "97.29%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.78%",
     "uptimeMonth": "99.72%",
     "uptimeYear": "95.86%",
     "time": 989,
-    "timeDay": 797,
-    "timeWeek": 782,
-    "timeMonth": 895,
+    "timeDay": 827,
+    "timeWeek": 772,
+    "timeMonth": 902,
     "timeYear": 968,
     "dailyMinutesDown": {
       "2024-03-06": 123,
@@ -689,7 +690,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-03-11": 42,
+      "2024-03-12": 40,
+      "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
       "2024-03-08": 1440,
@@ -1033,8 +1035,7 @@
       "2023-03-17": 1440,
       "2023-03-16": 1440,
       "2023-03-15": 1440,
-      "2023-03-14": 1440,
-      "2023-03-13": 1440
+      "2023-03-14": 1440
     }
   }
 ]
