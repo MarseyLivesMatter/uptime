@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "21.75%",
+    "uptime": "21.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
     "uptimeYear": "5.25%",
-    "time": 1510,
+    "time": 1518,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2024-03-21": 1216,
+      "2024-03-22": 40,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -362,8 +363,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "61.16%",
+    "uptime": "61.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "33.06%",
+    "uptimeYear": "33.01%",
     "time": 633,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 664,
+    "timeYear": 665,
     "dailyMinutesDown": {
-      "2024-03-21": 1216,
+      "2024-03-22": 41,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -636,18 +637,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lynwood.fun.ico",
     "slug": "lynwood-fun",
     "status": "down",
-    "uptime": "97.33%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "95.86%",
-    "time": 986,
-    "timeDay": 656,
-    "timeWeek": 716,
-    "timeMonth": 837,
-    "timeYear": 963,
+    "uptime": "97.30%",
+    "uptimeDay": "81.64%",
+    "uptimeWeek": "97.38%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "95.81%",
+    "time": 985,
+    "timeDay": 481,
+    "timeWeek": 668,
+    "timeMonth": 813,
+    "timeYear": 961,
     "dailyMinutesDown": {
-      "2024-03-21": 0,
+      "2024-03-22": 41,
+      "2024-03-21": 224,
       "2024-03-06": 123,
       "2024-01-28": 28,
       "2024-01-23": 143,
@@ -679,8 +681,7 @@
       "2023-06-20": 935,
       "2023-06-09": 15,
       "2023-06-05": 18,
-      "2023-05-19": 170,
-      "2023-03-23": 119
+      "2023-05-19": 170
     }
   },
   {
@@ -700,7 +701,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-03-21": 1216,
+      "2024-03-22": 41,
+      "2024-03-21": 1440,
       "2024-03-20": 1440,
       "2024-03-19": 1440,
       "2024-03-18": 1440,
@@ -1044,8 +1046,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   }
 ]
