@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "20.75%",
+    "uptime": "20.72%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2024-04-21": 46,
+      "2024-04-22": 44,
+      "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
@@ -362,8 +363,7 @@
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
-      "2023-04-24": 1440,
-      "2023-04-23": 1440
+      "2023-04-24": 1440
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "58.36%",
+    "uptime": "58.28%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "24.79%",
-    "time": 642,
+    "uptimeYear": "24.51%",
+    "time": 643,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 693,
+    "timeYear": 695,
     "dailyMinutesDown": {
-      "2024-04-21": 46,
+      "2024-04-22": 44,
+      "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
@@ -667,15 +668,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lynwood.fun.ico",
     "slug": "lynwood-fun",
     "status": "up",
-    "uptime": "97.40%",
+    "uptime": "97.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.91%",
+    "uptimeMonth": "99.52%",
     "uptimeYear": "95.79%",
     "time": 983,
-    "timeDay": 748,
-    "timeWeek": 825,
-    "timeMonth": 859,
+    "timeDay": 746,
+    "timeWeek": 809,
+    "timeMonth": 900,
     "timeYear": 960,
     "dailyMinutesDown": {
       "2024-04-06": 36,
@@ -721,7 +722,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmfao.quest.ico",
     "slug": "lmfao-quest",
     "status": "down",
-    "uptime": "4.91%",
+    "uptime": "4.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -732,7 +733,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-04-21": 46,
+      "2024-04-22": 44,
+      "2024-04-21": 1440,
       "2024-04-20": 1440,
       "2024-04-19": 1440,
       "2024-04-18": 1440,
@@ -1076,8 +1078,7 @@
       "2023-04-27": 1440,
       "2023-04-26": 1440,
       "2023-04-25": 1440,
-      "2023-04-24": 1440,
-      "2023-04-23": 1440
+      "2023-04-24": 1440
     }
   }
 ]
