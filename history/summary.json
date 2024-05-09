@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "20.23%",
+    "uptime": "20.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 1779,
     "dailyMinutesDown": {
-      "2024-05-08": 36,
+      "2024-05-09": 43,
+      "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -362,8 +363,7 @@
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
-      "2023-05-11": 1440,
-      "2023-05-10": 1440
+      "2023-05-11": 1440
     }
   },
   {
@@ -372,18 +372,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "56.90%",
+    "uptime": "56.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "20.13%",
-    "time": 642,
+    "uptimeYear": "19.86%",
+    "time": 641,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 725,
+    "timeYear": 726,
     "dailyMinutesDown": {
-      "2024-05-08": 36,
+      "2024-05-09": 43,
+      "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -690,10 +691,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "95.79%",
     "time": 975,
-    "timeDay": 933,
+    "timeDay": 672,
     "timeWeek": 891,
-    "timeMonth": 875,
-    "timeYear": 956,
+    "timeMonth": 865,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2024-04-06": 36,
       "2024-03-22": 220,
@@ -738,7 +739,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmfao.quest.ico",
     "slug": "lmfao-quest",
     "status": "down",
-    "uptime": "4.79%",
+    "uptime": "4.78%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -749,7 +750,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-05-08": 36,
+      "2024-05-09": 43,
+      "2024-05-08": 1440,
       "2024-05-07": 1440,
       "2024-05-06": 1440,
       "2024-05-05": 1440,
@@ -1093,8 +1095,7 @@
       "2023-05-14": 1440,
       "2023-05-13": 1440,
       "2023-05-12": 1440,
-      "2023-05-11": 1440,
-      "2023-05-10": 1440
+      "2023-05-11": 1440
     }
   }
 ]
