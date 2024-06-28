@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "18.84%",
+    "uptime": "18.82%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "0.37%",
+    "uptimeYear": "0.09%",
     "time": 1779,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1738,
+    "timeYear": 1941,
     "dailyMinutesDown": {
-      "2024-06-27": 47,
+      "2024-06-28": 47,
+      "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -379,8 +380,7 @@
       "2023-07-03": 1440,
       "2023-07-02": 1440,
       "2023-07-01": 1440,
-      "2023-06-30": 1440,
-      "2023-06-29": 798
+      "2023-06-30": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "52.99%",
+    "uptime": "52.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "6.43%",
+    "uptimeYear": "6.16%",
     "time": 656,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1079,
+    "timeYear": 1104,
     "dailyMinutesDown": {
-      "2024-06-27": 47,
+      "2024-06-28": 47,
+      "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -755,12 +756,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "93.68%",
-    "uptimeYear": "97.13%",
-    "time": 932,
-    "timeDay": 397,
-    "timeWeek": 193,
-    "timeMonth": 613,
-    "timeYear": 922,
+    "uptimeYear": "97.14%",
+    "time": 931,
+    "timeDay": 56,
+    "timeWeek": 153,
+    "timeMonth": 584,
+    "timeYear": 916,
     "dailyMinutesDown": {
       "2024-06-18": 781,
       "2024-06-17": 1404,
@@ -787,8 +788,7 @@
       "2023-07-08": 1440,
       "2023-07-07": 1372,
       "2023-07-05": 510,
-      "2023-07-04": 400,
-      "2023-06-29": 97
+      "2023-07-04": 400
     }
   },
   {
@@ -797,7 +797,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmfao.quest.ico",
     "slug": "lmfao-quest",
     "status": "down",
-    "uptime": "4.46%",
+    "uptime": "4.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -808,7 +808,8 @@
     "timeMonth": 0,
     "timeYear": 1007,
     "dailyMinutesDown": {
-      "2024-06-27": 47,
+      "2024-06-28": 47,
+      "2024-06-27": 1440,
       "2024-06-26": 1440,
       "2024-06-25": 1440,
       "2024-06-24": 1440,
@@ -1152,8 +1153,7 @@
       "2023-07-22": 1440,
       "2023-07-21": 710,
       "2023-07-01": 143,
-      "2023-06-30": 1440,
-      "2023-06-29": 1440
+      "2023-06-30": 1440
     }
   }
 ]
