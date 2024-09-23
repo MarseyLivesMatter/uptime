@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.marsey.cloud.ico",
     "slug": "marsey-cloud",
     "status": "down",
-    "uptime": "16.83%",
+    "uptime": "16.81%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 1654,
+    "time": 1673,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-22": 59,
+      "2024-09-23": 56,
+      "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
@@ -379,8 +380,7 @@
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
-      "2023-09-25": 1440,
-      "2023-09-24": 1440
+      "2023-09-25": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lmao.works.ico",
     "slug": "lmao-works",
     "status": "down",
-    "uptime": "47.33%",
+    "uptime": "47.27%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-22": 59,
+      "2024-09-23": 56,
+      "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
@@ -763,8 +764,7 @@
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
-      "2023-09-25": 1440,
-      "2023-09-24": 1440
+      "2023-09-25": 1440
     }
   },
   {
@@ -773,16 +773,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/nginx.lynwood.fun.ico",
     "slug": "lynwood-fun",
     "status": "up",
-    "uptime": "91.38%",
+    "uptime": "91.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "81.24%",
+    "uptimeMonth": "84.52%",
     "uptimeYear": "84.07%",
-    "time": 903,
-    "timeDay": 767,
-    "timeWeek": 878,
-    "timeMonth": 750,
-    "timeYear": 767,
+    "time": 902,
+    "timeDay": 852,
+    "timeWeek": 903,
+    "timeMonth": 753,
+    "timeYear": 768,
     "dailyMinutesDown": {
       "2024-09-13": 146,
       "2024-09-12": 1440,
@@ -873,7 +873,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-09-22": 60,
+      "2024-09-23": 56,
+      "2024-09-22": 1440,
       "2024-09-21": 1440,
       "2024-09-20": 1440,
       "2024-09-19": 1440,
@@ -1236,8 +1237,7 @@
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
-      "2023-09-25": 1440,
-      "2023-09-24": 1440
+      "2023-09-25": 1440
     }
   }
 ]
